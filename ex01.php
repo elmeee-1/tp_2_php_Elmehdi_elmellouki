@@ -15,9 +15,9 @@
     */
 
     echo "Bienvenue dans mon TP PHP<br>";
-    echo "Nom : Dupont<br>";
-    echo "Prénom : Ali<br>";
-    echo "Groupe : G1<br>";
+    echo "Nom : Elmellouki<br>";
+    echo "Prénom : Elmehdi<br>";
+    echo "Groupe : G4<br>";
     ?>
 
     <?= "Cette phrase est affichée avec la syntaxe courte." ?>
