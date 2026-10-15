@@ -1,8 +1,8 @@
 # TP 02 - PHP
 
-Nom fictif : Dupont  
-Prénom fictif : Ali  
-Groupe : G1
+Nom  : Elmellouki 
+Prénom : Elmellouki 
+Groupe : G4
 
 ## Titre
 TP 02 PHP — Programmation Web 2 — 2026/2027
